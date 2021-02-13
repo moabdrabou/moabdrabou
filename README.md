@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**moabdrabou/moabdrabou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Mohammed. A technical support engineer trying to build his iOS development career.
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,3 @@ My name is Mohammed. A technical support engineer trying to build his iOS develo
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
