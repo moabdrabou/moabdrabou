@@ -3,7 +3,7 @@
 My name is Mohammed. A technical support engineer building his iOS development career.
 
    - 🔭 I’m currently working on CS50 and my iOS development career
-   - 🌱 I’m currently learning 🇹🇷
+   - 🌱 I’m currently learning Turkish 🇹🇷
    - 💬 Ask me about self studying and games 😊
    - 📫 How to reach me: @Mo_Abdrabou on Telegram
    - ⚡ Fun fact: I love cycling 🚵 🚵 🚵
