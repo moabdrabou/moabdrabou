@@ -4,11 +4,7 @@ My name is Mohammed. A technical support engineer building his iOS development c
 
 <br />
 
-
-
 ### Languages and Tools:
-
-
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
@@ -41,103 +37,3 @@ My name is Mohammed. A technical support engineer building his iOS development c
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-
-
-<br />
-
-<br />
-
-
-
----
-
-
-
-### 📺 Capstone Demo Overview on YouTube 
-
-
-
-<!-- YOUTUBE:START -->
-
-- [My Capstone|Encore Video Demo| ADA Developers Academy| July 2020](https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be)
-
-
-
-<!-- YOUTUBE:END -->
-
-
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
-
-
----
-
-
-
-
-
----
-
-
-
-<details>
-
-  <summary>:zap: Recent Github Activity</summary>
-
-  
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#14](https://github.com/Ada-C13/Bipartition-Graph/pull/14) in [Ada-C13/Bipartition-Graph](https://github.com/Ada-C13/Bipartition-Graph)
-
-2. 💪 Opened PR [#6](https://github.com/Ada-C13/dynamic-programming-js/pull/6) in [Ada-C13/dynamic-programming-js](https://github.com/Ada-C13/dynamic-programming-js)
-
-3. 💪 Opened PR [#5](https://github.com/Ada-C13/heaps-js/pull/5) in [Ada-C13/heaps-js](https://github.com/Ada-C13/heaps-js)
-
-4. 💪 Opened PR [#5](https://github.com/Ada-C13/hash-practice-js/pull/5) in [Ada-C13/hash-practice-js](https://github.com/Ada-C13/hash-practice-js)
-
-5. 💪 Opened PR [#1](https://github.com/Ada-C13/stacks-queues-js/pull/1) in [Ada-C13/stacks-queues-js](https://github.com/Ada-C13/stacks-queues-js)
-
-<!--END_SECTION:activity-->
-
-
-
-</details>
-
-
-
-<details>
-
-  <summary>:zap: Github Stats</summary>
-
-
-
-  <img align="left" alt="Shonda's Github Stats" src="https://github-readme-stats.shonda860.vercel.app/api?username=shonda860&show_icons=true&hide_border=true" />
-
-
-
-</details>
-
-
-
-[website]: https://shondawarren.com
-
-[twitter]: https://twitter.com/shonda__warren
-
-[youtube]: https://youtube.com/codeSTACKr
-
-[instagram]: https://instagram.com/blackolive625
-
-[linkedin]: https://www.linkedin.com/in/norshonda-shonda-warren-0b8a2297
-
-[webdevplaylist]: https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be
-
-[jsplaylist]: https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be
-
-[cssplaylist]: https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be
-
-[reactplaylist]:https://facebook-messenger-clone-84b2c.web.app
-
-
