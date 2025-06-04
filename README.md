@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://placehold.co/800x150/000000/FFFFFF?text=Code+%7C+Build+%7C+Innovate.+Making+Tech+Work+for+You.&font=roboto&size=40" alt="Banner" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/moabdrabou/moabdrabou/main/assets/my-custom-banner.png" alt="Code | Build | Innovate. Making Tech Work for You." style="border-radius: 10px; width: 800px; height: 150px;" />
 </div>
 
 ## 👋 About Me
