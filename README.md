@@ -22,7 +22,7 @@ My expertise spans various technologies, driven by a desire to find the right to
 
 <div align="center">
 	<!-- Languages -->
-	<h4>Languages & Front-End</h4>
+	<h3>Languages & Front-End</h3>
 		<p>
 			<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 			<img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
@@ -33,7 +33,7 @@ My expertise spans various technologies, driven by a desire to find the right to
 			<img src="https://img.shields.io/badge/Scripting-F7DF1E?style=for-the-badge&logo=codewars&logoColor=white" alt="Scripting" />
 		</p>
 	<!-- Data & Analytics -->
-	<h4>Data & Analytics</h4>
+	<h3>Data & Analytics</h3>
 	<p>
 		<img src="https://img.shields.io/badge/Statistics-6A5ACD?style=for-the-badge&logo=r&logoColor=white" alt="Statistics" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -45,7 +45,7 @@ My expertise spans various technologies, driven by a desire to find the right to
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 	</p>
 	<!-- IT Operations & Support -->
-	<h4>IT Operations & Support</h4>
+	<h3>IT Operations & Support</h3>
 	<p>
 		<img src="https://img.shields.io/badge/Troubleshooting-FF6600?style=for-the-badge&logo=wrench&logoColor=white" alt="Troubleshooting" />
 <img src="https://img.shields.io/badge/Technical%20Support-4CAF50?style=for-the-badge&logo=headset&logoColor=white" alt="Technical Support" />
@@ -61,7 +61,7 @@ My expertise spans various technologies, driven by a desire to find the right to
 <img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge&logo=router&logoColor=white" alt="DHCP" />
 	</p>
 	<!-- Software & Platforms -->
-	<h4>Software & Platforms</h4>
+	<h3>Software & Platforms</h3>
 	<p>
 		
 <img src="https://img.shields.io/badge/Office%20365-EA3E23?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Office 365" />
