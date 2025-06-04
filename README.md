@@ -8,8 +8,8 @@ I'm Mohammed Abdrabou, a **results-driven IT professional** with over **15 years
 
 ## 🚀 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moabdrabou&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moabdrabou&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 48%; vertical-align: top;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 48%; vertical-align: top;" />
   <img src="https://github.com/moabdrabou/moabdrabou/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
