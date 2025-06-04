@@ -34,7 +34,7 @@ My expertise spans various technologies, driven by a desire to find the right to
 	<p>
 		<img src="https://img.shields.io/badge/Statistics-6A5ACD?style=for-the-badge&logo=r&logoColor=white" alt="Statistics" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
 <img src="https://img.shields.io/badge/Data%20Analysis-4A90E2?style=for-the-badge&logo=apachespark&logoColor=white" alt="Data Analysis" />
 <img src="https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Visualization" />
 <img src="https://img.shields.io/badge/Data%20Processing-6D4C41?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Data Processing" />
