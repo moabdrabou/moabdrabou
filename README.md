@@ -11,9 +11,9 @@ I'm Mohammed Abdrabou, a **results-driven IT professional** with over **15 years
 	<img src="https://github-readme-stats.vercel.app/api?username=moabdrabou&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 400px; height: auto; margin-right: 10px; vertical-align: top;" />
 <img src="https://nirzak-streak-stats.vercel.app/?user=moabdrabou&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 400px; height: auto; vertical-align: top;" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moabdrabou/moabdrabou/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moabdrabou/moabdrabou/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/moabdrabou/moabdrabou/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moabdrabou/moabdrabou/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moabdrabou/moabdrabou/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/moabdrabou/moabdrabououtput/github-snake.svg" />
 </picture>
 </div>
 
