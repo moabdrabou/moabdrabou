@@ -87,7 +87,7 @@ My expertise spans various technologies, driven by a desire to find the right to
           <img width="12" />
           <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
           <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Apple-logo.png" alt="Apple Logo" height="40" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/AppleLogo.png" alt="Apple Logo" height="40" />
           <img width="12" />
           <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/customer-service.png" alt="Customer Service Logo" height="40" />
           <img width="12" />
