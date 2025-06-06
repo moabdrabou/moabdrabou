@@ -83,18 +83,28 @@ My expertise spans various technologies, driven by a desire to find the right to
   </p>
   <h4>IT Operations & Support</h4>
   <p>
-    <img src="https://img.shields.io/badge/Troubleshooting-FF6600?style=for-the-badge&logo=wrench&logoColor=white" alt="Troubleshooting" />
-    <img src="https://img.shields.io/badge/Technical%20Support-4CAF50?style=for-the-badge&logo=headset&logoColor=white" alt="Technical Support" />
-    <img src="https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Linux Operating Systems" />
-    <img src="https://img.shields.io/badge/Customer%20Service-9C27B0?style=for-the-badge&logo=customerservice&logoColor=white" alt="Customer Service" />
-    <img src="https://img.shields.io/badge/Debugging-FF6600?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Debugging" />
-    <img src="https://img.shields.io/badge/Networking-2196F3?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
-    <img src="https://img.shields.io/badge/Virtualization-6A5ACD?style=for-the-badge&logo=Virtualization&logoColor=white" alt="Virtualization" />
-    <img src="https://img.shields.io/badge/Infrastructure%20Monitoring-FF6600?style=for-the-badge&logo=monitoring&logoColor=white" alt="Infrastructure Monitoring" />
-    <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=terminall&logoColor=white" alt="Windows Terminal" />
-    <img src="https://img.shields.io/badge/Server%20Admin-FF6600?style=for-the-badge&logo=server&logoColor=white" alt="Server Administration" />
-    <img src="https://img.shields.io/badge/Active%20Directory-4A90E2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
-    <img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge&logo=router&logoColor=white" alt="DHCP" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+          <img width="12" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Apple-logo.png" alt="Apple Logo" height="40" />
+          <img width="12" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/customer-service.png" alt="Customer Service Logo" height="40" />
+          <img width="12" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/troubleshooting.png" alt="Troubleshooting Logo" height="40" />
+          <img width="12" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/debugging.png" alt="Debugging Logo" height="40" />
+          <img width="12" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/network.png" alt="Network Logo" height="40" />
+          <img width="12" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/infrastructure.png" alt="Infrastructure Logo" height="40" />
+          <img width="12" />
+          <img src="https://img.shields.io/badge/Server%20Admin-FF6600?style=for-the-badge&logo=server&logoColor=white" alt="Server Administration" />
+          <img width="12" />
+          <img width="12" />
+          <img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge&logo=router&logoColor=white" alt="DHCP" />
+          <img width="12" />
+          <img src="https://img.shields.io/badge/Active%20Directory-4A90E2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
   </p>
 </div>
 <br>
