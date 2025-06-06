@@ -61,18 +61,25 @@ My expertise spans various technologies, driven by a desire to find the right to
   </p>
   <h4>Software & Platforms</h4>
   <p> 
-    <img src="https://img.shields.io/badge/Office%20365-EA3E23?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Office 365" />
-    <img src="https://img.shields.io/badge/Microsoft%20Dynamics%20365-00A1E0?style=for-the-badge&logo=microsoftdynamics365&logoColor=white" alt="Microsoft Dynamics 365" />
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
-    <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape" />
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="Krita" />
-    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-    <img src="https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white" alt="Zendesk" />
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Office_365.png" alt="Office 365 Logo" height="40" />
+          <img width="12" />
+          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Dynamics365.png" alt="Dynamics 365 Logo" height="40" />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
+          <img width="12" />
+          <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+          <img width="12" />
+          <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+          <img width="12" />
+          <img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="confluence logo"  />
   </p>
   <h4>IT Operations & Support</h4>
   <p>
