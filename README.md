@@ -126,12 +126,6 @@ Always eager to expand my knowledge and skills, embracing new challenges to stay
 
 <div align="center">
   <p>
-    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Epic-Games.png" alt="Epic Games Logo" height="40" />
-    <img width="12" />
-    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/EA-Logo.png" alt="EA Logo" height="40" />
-    <img width="12" />
-    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Battle.Net-Logo.png" alt="Battle.Net Logo" height="40" />
-    <img width="12" />
     <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/steam-logo.png" alt="Steam Logo" height="40" />
     <img width="12" />
     <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/ubisoft.png" alt="Ubisoft Logo" height="40" />
@@ -155,7 +149,7 @@ Always eager to expand my knowledge and skills, embracing new challenges to stay
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.tiktok.com/@itskurtash" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/tiktok.png" width="52" height="40" alt="TikTok"  />
   </a>
   <a href="https://www.youtube.com/@ItsKurta%C5%9F" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
