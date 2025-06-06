@@ -79,7 +79,7 @@ My expertise spans various technologies, driven by a desire to find the right to
           <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
           <img width="12" />
-          <img src="https://cdn.simpleicons.org/confluence/172B4D" height="40" alt="confluence logo"  />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
   </p>
   <h4>IT Operations & Support</h4>
   <p>
