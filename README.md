@@ -107,9 +107,11 @@ My expertise spans various technologies, driven by a desire to find the right to
 Always eager to expand my knowledge and skills, embracing new challenges to stay at the forefront of technology.
 
 <div align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/DevOps%20Fundamentals-000000?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps Fundamentals" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 <br>
