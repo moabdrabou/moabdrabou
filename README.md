@@ -98,13 +98,6 @@ My expertise spans various technologies, driven by a desire to find the right to
           <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/network.png" alt="Network Logo" height="40" />
           <img width="12" />
           <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/infrastructure.png" alt="Infrastructure Logo" height="40" />
-          <img width="12" />
-          <img src="https://img.shields.io/badge/Server%20Admin-FF6600?style=for-the-badge&logo=server&logoColor=white" alt="Server Administration" />
-          <img width="12" />
-          <img width="12" />
-          <img src="https://img.shields.io/badge/DHCP-0078D4?style=for-the-badge&logo=router&logoColor=white" alt="DHCP" />
-          <img width="12" />
-          <img src="https://img.shields.io/badge/Active%20Directory-4A90E2?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
   </p>
 </div>
 <br>
