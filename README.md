@@ -126,12 +126,19 @@ Always eager to expand my knowledge and skills, embracing new challenges to stay
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Epic%20Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
-    <img src="https://img.shields.io/badge/EA-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="EA" />
-    <img src="https://img.shields.io/badge/Battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net" />
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-    <img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black" alt="Ubisoft" />
-    <img src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
+    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Epic-Games.png" alt="Epic Games Logo" height="40" />
+    <img width="12" />
+    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/EA-Logo.png" alt="EA Logo" height="40" />
+    <img width="12" />
+    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Battle.Net-Logo.png" alt="Battle.Net Logo" height="40" />
+    <img width="12" />
+    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/steam-logo.png" alt="Steam Logo" height="40" />
+    <img width="12" />
+    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/ubisoft.png" alt="Ubisoft Logo" height="40" />
+    <img width="12" />  
+    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/rockstar-games-logo.png" alt="Rockstar Games Logo" height="40" />
+    <img width="12" /> 
+    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/xbox.png" alt="Xbox Logo" height="40" /> 
   </p>
 </div>
 
@@ -139,12 +146,18 @@ Always eager to expand my knowledge and skills, embracing new challenges to stay
 
 <div align="center">
   <a href="https://www.linkedin.com/in/moabdrabou/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/MoeAbdrabou/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/586605358315732995" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.tiktok.com/@itskurtash" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.youtube.com/@ItsKurta%C5%9F" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
