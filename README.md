@@ -12,10 +12,10 @@ I'm Mohammed Abdrabou, a **results-driven IT professional** with over **15 years
   <img src="https://github.com/moabdrabou/moabdrabou/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabdrabou&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 60%; height: auto; margin-top: 10px;" />
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=moabdrabou&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 400px; height: auto; vertical-align: top;" />
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabdrabou&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 400px; height: auto;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=moabdrabou&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 400px; height: auto;" />
+</div>
 <br>
 
 ## 🛠️ Tech Stack
