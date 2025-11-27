@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-I'm Mohammed Abdrabou, a **results-driven IT professional** with over **15 years of experience** in technical support, IT operations, and system administration across North America, Africa, and the Middle East. I'm a passionate computer enthusiast with a strong will to try out new things, and I truly enjoy **coding whatever helps make life easier**. My core drive is **helping people and solving complex problems**. I thrive on challenges, whether it's optimizing IT service delivery, streamlining troubleshooting processes, or enhancing operational efficiency through automation.
+**IT Operations Specialist & System Administrator** with 15+ years of international experience (North America, Africa, Middle East). I am a passionate coder focused on **automation and operational efficiency**. My core professional mission is to take on challenges, optimize IT service delivery, and develop solutions that simplify complex systems.
 
 ## 🚀 My GitHub Stats
 
@@ -19,8 +19,6 @@ I'm Mohammed Abdrabou, a **results-driven IT professional** with over **15 years
 <br>
 
 ## 🛠️ Tech Stack
-
-My expertise spans various technologies, driven by a desire to find the right tools for the job and continuously learn.
 
 <div align="center">
   <h4>Languages</h4>
