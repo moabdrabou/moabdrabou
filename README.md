@@ -35,75 +35,76 @@ My expertise spans various technologies, driven by a desire to find the right to
           <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
           <img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
 
-  <h4>Data & Analytics</h4>
-  <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Power_BI_Logo.png" alt="Power BI Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Tableau_Logo.png" alt="Tableau Logo" height="40" />
-  </p>
-  <h4>Software & Platforms</h4>
-  <p> 
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Office_365.png" alt="Office 365 Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Dynamics365.png" alt="Dynamics 365 Logo" height="40" />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
-  </p>
-  <h4>IT Operations & Support</h4>
-  <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/apple-logo.png" alt="Apple Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/customer-service.png" alt="Customer Service Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/troubleshooting.png" alt="Troubleshooting Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/debugging.png" alt="Debugging Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/network.png" alt="Network Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/infrastructure.png" alt="Infrastructure Logo" height="40" />
-  </p>
-</div>
-<br>
+  <h4>Hosting/SaaS</h4>
+          <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+          <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+          <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+          <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
-## 📚 Currently Learning
+  <h4>Frameworks, Platforms & Libraries</h4>
+          <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+          <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+          <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+          <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+          <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
+          <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+          <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+          <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+          <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+          <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+          <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">
+          <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+          <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 
-Always eager to expand my knowledge and skills, embracing new challenges to stay at the forefront of technology.
+  <h4>Databases</h4>
+          <img alt="AmazonDynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white">
+          <img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+          <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+          <img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+          <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+          <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+          <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+          <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+          <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <h4>Design</h4>
+          <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white">
+          <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
+          <img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
+          <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+          <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+          <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+          <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+          <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+          <img alt="Gimp" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
+          <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13">
+          <img alt="Krita" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+  <h4>ML</h4>
+          <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+          <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <h4>CI/CD</h4>
+          <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+          <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+          <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+  <h4>Other</h4>
+          <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+          <img alt="Cisco" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
+          <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
+          <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+          <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+          <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+          <img alt="Power Bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+          <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
+          <img alt="Wireguard" src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white">
+          <img alt="Battle.net" src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white">
+          <img alt="EA" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white">
+          <img alt="Epic Games" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
+          <img alt="nVIDIA" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white">
+          <img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
+          <img alt="Xbox" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white">
+          <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
+          <img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
+
 </div>
 
 <br>
@@ -116,34 +117,14 @@ Always eager to expand my knowledge and skills, embracing new challenges to stay
   - Champaign, IL to Chicago, IL USA 🇺🇸
 - When I'm not immersed in technology 💻 or on a bike 🚲, you can often find me exploring virtual worlds. I'm currently enjoying **Once Human**! 🎮👾
 
-<div align="center">
-  <p>
-    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/steam-logo.png" alt="Steam Logo" height="40" />
-    <img width="12" />
-    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/ubisoft.png" alt="Ubisoft Logo" height="40" />
-    <img width="12" />  
-    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/rockstar-games-logo.png" alt="Rockstar Games Logo" height="40" />
-    <img width="12" /> 
-    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/xbox.png" alt="Xbox Logo" height="40" /> 
-  </p>
-</div>
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/moabdrabou/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/MoeAbdrabou/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/586605358315732995" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.tiktok.com/@itskurtash" target="_blank">
-    <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/tiktok.png" width="52" height="40" alt="TikTok"  />
-  </a>
-  <a href="https://www.youtube.com/@ItsKurta%C5%9F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+  <a href="https://discord.gg/586605358315732995" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
+  <a href="https://linkedin.com/in/moabdrabou" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://tiktok.com/@itskurtash" target="_blank"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"></a>
+  <a href="https://twitch.tv/itskurtash" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"></a>
+  <a href="https://x.com/MoeAbdrabou" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+  <a href="https://youtube.com/@ItsKurtaş" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </div>
