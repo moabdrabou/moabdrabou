@@ -22,7 +22,7 @@ I'm Mohammed Abdrabou, a **results-driven IT professional** with over **15 years
 
 My expertise spans various technologies, driven by a desire to find the right tools for the job and continuously learn.
 
-<h4>Languages</h4>
+### Languages
           ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
           ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
           ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -33,90 +33,13 @@ My expertise spans various technologies, driven by a desire to find the right to
           ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
           ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
           ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-<div align="center">
-  <h4>Languages</h4>
-          ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-          ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-          ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-          ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-          ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-          ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-          ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-          ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-          ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-          ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-  <h4>Data & Analytics</h4>
-  <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Power_BI_Logo.png" alt="Power BI Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Tableau_Logo.png" alt="Tableau Logo" height="40" />
-  </p>
-  <h4>Software & Platforms</h4>
-  <p> 
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Office_365.png" alt="Office 365 Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/Dynamics365.png" alt="Dynamics 365 Logo" height="40" />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
-          <img width="12" />
-          <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-          <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
-  </p>
-  <h4>IT Operations & Support</h4>
-  <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-          <img width="12" />
-          <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/apple-logo.png" alt="Apple Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/customer-service.png" alt="Customer Service Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/troubleshooting.png" alt="Troubleshooting Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/debugging.png" alt="Debugging Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/network.png" alt="Network Logo" height="40" />
-          <img width="12" />
-          <img src="https://github.com/moabdrabou/moabdrabou/blob/main/assets/infrastructure.png" alt="Infrastructure Logo" height="40" />
-  </p>
-</div>
 <br>
 
 ## 📚 Currently Learning
 
 Always eager to expand my knowledge and skills, embracing new challenges to stay at the forefront of technology.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+
 
 <br>
 
