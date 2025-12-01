@@ -14,8 +14,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 15px;">
   <img src="https://stats.moabdrabou.dev/api/top-langs/?username=moabdrabou&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="width: 400px; height: auto;" />
-  <img src="https://github-readme-streak-stats-delta-lemon.vercel.app
-/?user=moabdrabou&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 400px; height: auto;" />
+  <img src="https://github-readme-streak-stats-delta-lemon.vercel.app/?user=moabdrabou&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 400px; height: auto;" />
 </div>
 <br>
 
