@@ -106,7 +106,6 @@
           <img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
 
 </div>
-
 <br>
 
 ## ✨ Fun Facts & Hobbies
@@ -116,7 +115,6 @@
   - Cairo to Alexandria, Egypt 🇪🇬
   - Champaign, IL to Chicago, IL USA 🇺🇸
 - When I'm not immersed in technology 💻 or on a bike 🚲, you can often find me exploring virtual worlds. I'm currently enjoying **Once Human**! 🎮👾
-
 
 ## 🤝 Connect With Me
 
