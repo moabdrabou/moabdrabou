@@ -111,9 +111,9 @@
 ## ✨ Fun Facts & Hobbies
 
 - I'm an avid **cyclist** 🚴‍♂️ and have completed several challenging long-distance trips 🗺️, including:
-  - Cairo to Aswan, Egypt 🇪🇬
-  - Cairo to Alexandria, Egypt 🇪🇬
-  - Champaign, IL to Chicago, IL USA 🇺🇸
+  - Cairo --> Aswan, Egypt 🇪🇬
+  - Cairo --> Alexandria, Egypt 🇪🇬
+  - Normal, IL --> Chicago, IL USA 🇺🇸
 - When I'm not immersed in technology 💻 or on a bike 🚲, you can often find me exploring virtual worlds. I'm currently enjoying **Once Human**! 🎮👾
 
 ## 🤝 Connect With Me
