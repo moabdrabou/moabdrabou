@@ -6,7 +6,7 @@
 
 **IT Operations Specialist & System Administrator** with 15+ years of international experience (North America, Africa, Middle East). I am a passionate coder focused on **automation and operational efficiency**. My core professional mission is to take on challenges, optimize IT service delivery, and develop solutions that simplify complex systems.
 
-## 🚀 My GitHub Stats
+## 🚀 My GitHub Stats 
 
 <div align="center">
   <img src="https://github.com/moabdrabou/moabdrabou/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
