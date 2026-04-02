@@ -4,7 +4,11 @@
 
 ## 👋 About Me
 
-**IT Operations Specialist & System Administrator** with 15+ years of international experience (North America, Africa, Middle East). I am a passionate coder focused on **automation and operational efficiency**. My core professional mission is to take on challenges, optimize IT service delivery, and develop solutions that simplify complex systems.
+I've spent 15+ years turning complex technical problems into measurable business outcomes; from resolving 100+ issues weekly with a 90% first-touch rate to architecting cloud infrastructure that cut hosting costs by 30%.
+
+I'm a Software Engineer and Technical Support specialist who doesn't just fix things. I build systems that prevent them from breaking. My career spans North America, Africa, the Middle East, and remote-first global teams, giving me a unique ability to operate across cultures, time zones, and tech stacks.
+
+What sets me apart is the combination: I bring engineering depth (React, Python, AWS, Docker, Kubernetes, Terraform) and support operations experience (Datadog, RCA, SLA management, knowledge systems) that most engineers or support specialists have one side of, not both. Google Advanced Data Analytics certified. Fluent in Arabic and English, with basic Turkish.
 
 ## 🚀 My GitHub Stats
 
